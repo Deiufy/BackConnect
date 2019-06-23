@@ -1,2 +1,2 @@
-#Script coded by MrSqar
+#Script coded by Deiufy
 enjoy
